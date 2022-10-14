@@ -1,0 +1,1 @@
+npm i @react-navigation/native  @react-navigation/native-stack react-native-screens  react-native-safe-area-context  react-native-reanimated  react-native-gesture-handler  @react-native-community/masked-view react-native-vector-icons react-native-paper @react-navigation/drawer react-native-image-crop-picker expo-constants expo-font
